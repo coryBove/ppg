@@ -23,17 +23,6 @@ var announcementItems =
         upcoming: "YES"
     },
     item3 : {
-        name : "Big Book Conference Banquet",
-        description : 
-        `        
-        Doors 6:00pm, Dinner at 7:00pm, Speaker (Chris C.) at 8:00pm. Tickets are $25 in support of the 1st annual Big Book Conference. 
-        `,
-        date: "Saturday, Febuary 15th 2025",
-        location: "Community Vineyard Church - 2543 State Rd. Cuyahoga Falls, OH 44223",
-        shareFlier: "announcements/big-book-conference-banquet.jpg",
-        upcoming: "YES"
-    },
-    item4 : {
         name : "Big Book Conference",
         description : 
         `        
