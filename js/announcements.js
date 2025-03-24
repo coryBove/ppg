@@ -6,31 +6,9 @@ var announcementItems =
         `        
         Come learn the fundamentals of the 12 steps of Alcoholics Anonymous - Hosted by Mike B.
         `,
-        date: "Begins Sunday January 12th at 7:00PM",
+        date: "Ends Sunday March 30th 7:00PM",
         location: "Community Vineyard Church - 2543 State Rd. Cuyahoga Falls, OH 44223",
         shareFlier: "announcements/12-step-workshop-2025.jpg",
-        upcoming: "YES"
-    },
-    item2 : {
-        name : "PPG Monday Night 12&12 1 Year Anniversary",
-        description : 
-        `        
-        Doors 5:30pm, Food at 6:00pm, Speakers at 7:00pm, Main Dish Provided. Covered Dishes welcome.
-        `,
-        date: "Monday March 3, 2025",
-        location: "Church of God - 2106 4th St Cuyahoga Falls, OH 44221",
-        shareFlier: "announcements/12n12-1-year-anniversary.jpg",
-        upcoming: "YES"
-    },
-    item3 : {
-        name : "Big Book Conference",
-        description : 
-        `        
-        Weekend conference event featuring John P, Bob D, Kent C, Paul Mc. Tickets $35.
-        `,
-        date: "Friday March 21 5:00pm-9:00pm, Saturday March 22 10:00am-8:00pm, Sunday March 23 10:00am-12:30pm",
-        location: "The Windam - 6200 Quarry Ln, Independence, OH 44131",
-        shareFlier: "announcements/big-book-conference.jpg",
         upcoming: "YES"
     },
 };
