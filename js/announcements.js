@@ -4,9 +4,10 @@ var announcementItems =
         name : "Primary Purpose Group 12 Step Workshop",
         description : 
         `        
-        Come learn the fundamentals of the 12 steps of Alcoholics Anonymous - Hosted by Mike B.
+        <s>Come learn the fundamentals of the 12 steps of Alcoholics Anonymous - Hosted by Mike B.</s>
+        <br/>Listen to the 2025 workshop on <a href="https://youtu.be/zb7OW29KDwQ">YouTube</a>
         `,
-        date: "Ends Sunday March 30th 7:00PM",
+        date: "Ended Sunday, March 30th 2025 7:00PM",
         location: "Community Vineyard Church - 2543 State Rd. Cuyahoga Falls, OH 44223",
         shareFlier: "announcements/12-step-workshop-2025.jpg",
         upcoming: "YES"
