@@ -1,6 +1,21 @@
 var announcementItems = 
 {   
     item1 : {
+        name : "Welcome Home",
+        description : 
+        `
+        Please join us for the Primary Purpose Group's 4th Annual Welcome Home Meeting.
+        <br/>
+        Lead - Kent C. (Sandusky, Ohio)
+        <br/>
+        Free BBQ Dinner Provided. Games, Door Prizes, Raffles
+        `,
+        date: "Thursday June 5, 2025 - Doors 5pm, Food 6pm, Lead 8pm",
+        location: "Community Vineyard Church - 2543 State Rd. Cuyahoga Falls, OH 44223",
+        shareFlier: "announcements/welcome-home-2025.jpg",
+        upcoming: "YES"
+    },
+    item2 : {
         name : "Primary Purpose Group 12 Step Workshop",
         description : 
         `        
