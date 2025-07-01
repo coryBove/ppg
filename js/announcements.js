@@ -4,15 +4,22 @@ var announcementItems =
         name : "Welcome Home",
         description : 
         `
-        Please join us for the Primary Purpose Group's 4th Annual Welcome Home Meeting.
+        Please join us for the Primary Purpose Group's Annual Poker Run.
         <br/>
-        Lead - Kent C. (Sandusky, Ohio)
+        Motorcycles & Cars Welcome
         <br/>
-        Free BBQ Dinner Provided. Games, Door Prizes, Raffles
+        Coffee & Snacks
+        <br/>
+        $25 Per Card
+        <br/>
+        Dinner Provided
+        <br/>
+        Prizes, Raffles, 50/50
+        <br/>
         `,
-        date: "Thursday June 5, 2025 - Doors 5pm, Food 6pm, Lead 8pm",
-        location: "Community Vineyard Church - 2543 State Rd. Cuyahoga Falls, OH 44223",
-        shareFlier: "announcements/welcome-home-2025.jpg",
+        date: "August 10th, 2025 9:00am Start, First Bike Out at 10:00am",
+        location: "STARTS AT: <br/> Longwood Park Pavilion 1566 E Aurora Rd, Macedonia, OH 44056",
+        shareFlier: "announcements/poker-run-2025.jpg",
         upcoming: "YES"
     }
 };
