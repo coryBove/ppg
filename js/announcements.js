@@ -1,24 +1,31 @@
 var announcementItems = 
 {   
     item1 : {
-        name : "Welcome Home",
+        name : "Poker Run",
         description : 
         `
         Please join us for the Primary Purpose Group's Annual Poker Run.
         <br/>
+        <ul>
+        <li>
         Motorcycles & Cars Welcome
-        <br/>
+        </li>
+        <li>
         Coffee & Snacks
-        <br/>
+        </li>
+        <li>
         $25 Per Card
-        <br/>
+        </li>
+        <li>
         Dinner Provided
-        <br/>
+        </li>
+        <li>
         Prizes, Raffles, 50/50
-        <br/>
+        </li>
+        </ul>
         `,
         date: "August 10th, 2025 9:00am Start, First Bike Out at 10:00am",
-        location: "STARTS AT: <br/> Longwood Park Pavilion 1566 E Aurora Rd, Macedonia, OH 44056",
+        location: "LOCATION - STARTING AT: <br/> Longwood Park Pavilion <br/> 1566 E Aurora Rd, Macedonia, OH 44056",
         shareFlier: "announcements/poker-run-2025.jpg",
         upcoming: "YES"
     }
