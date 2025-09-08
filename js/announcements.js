@@ -1,32 +1,32 @@
 var announcementItems = 
 {   
     item1 : {
-        name : "Poker Run",
+        name : "Mens Conference",
         description : 
         `
-        Please join us for the Primary Purpose Group's Annual Poker Run.
+        Please join us for the Primary Purpose Group's Annual Mens Conference.
         <br/>
         <ul>
         <li>
-        Motorcycles & Cars Welcome
+        Coffee
         </li>
         <li>
-        Coffee & Snacks
+        Lunch
         </li>
         <li>
-        $25 Per Card
+        Snacks
         </li>
         <li>
-        Dinner Provided
+        Free
         </li>
         <li>
-        Prizes, Raffles, 50/50
+        Speakers on a variety of topics
         </li>
         </ul>
         `,
-        date: "August 10th, 2025 9:00am Start, First Bike Out at 10:00am",
-        location: "LOCATION - STARTING AT: <br/> Longwood Park Pavilion <br/> 1566 E Aurora Rd, Macedonia, OH 44056",
-        shareFlier: "announcements/poker-run-2025.jpg",
+        date: "October 18th, 2025 10:30am",
+        location: "LOCATION - <br/> Community Vineyard Church <br/> 2543 State Road Cuyahoga Falls OH 44221",
+        shareFlier: "announcements/PPG-Mens-Conference-2025.jpg",
         upcoming: "YES"
     }
 };
