@@ -1,32 +1,31 @@
 var announcementItems = 
 {   
     item1 : {
-        name : "Mens Conference",
+        name : "Christmas Party",
         description : 
         `
-        Please join us for the Primary Purpose Group's Annual Mens Conference.
-        <br/>
+        12-Step Panel & Dinner
         <ul>
         <li>
-        Coffee
+        Ugly Sweater Contest
         </li>
         <li>
-        Lunch
+        Door Prizes
         </li>
         <li>
-        Snacks
+        50/50
         </li>
         <li>
-        Free
+        Raffle Baskets
         </li>
         <li>
-        Speakers on a variety of topics
+        Selfie Station
         </li>
         </ul>
         `,
-        date: "October 18th, 2025 10:30am",
+        date: "December 6, 2025 Doors Open at 5PM",
         location: "LOCATION - <br/> Community Vineyard Church <br/> 2543 State Road Cuyahoga Falls OH 44221",
-        shareFlier: "announcements/PPG-Mens-Conference-2025.jpg",
+        shareFlier: "announcements/PPG-Christmas-Party-2025.jpg",
         upcoming: "YES"
     }
 };
