@@ -1,31 +1,14 @@
 var announcementItems = 
 {   
     item1 : {
-        name : "Christmas Party",
+        name : "Connect the Dots",
         description : 
         `
-        12-Step Panel & Dinner
-        <ul>
-        <li>
-        Ugly Sweater Contest
-        </li>
-        <li>
-        Door Prizes
-        </li>
-        <li>
-        50/50
-        </li>
-        <li>
-        Raffle Baskets
-        </li>
-        <li>
-        Selfie Station
-        </li>
-        </ul>
+        This hands-on 12-Step and Big Book workshop invites you to <b>Connect the Dots</b> between reading, doing, and living the 12 Steps of Alcoholics Anonymous.
         `,
-        date: "December 6, 2025 Doors Open at 5PM",
+        date: "WHEN - <br/><em>Beginning February 15th, 2026</em><br/>Every Sunday 7:00-8:30pm",
         location: "LOCATION - <br/> Community Vineyard Church <br/> 2543 State Road Cuyahoga Falls OH 44221",
-        shareFlier: "announcements/PPG-Christmas-Party-2025.jpg",
+        shareFlier: "announcements/PPG-Connect-the-Dots-AA-Workshop-2026.jpg",
         upcoming: "YES"
     }
 };
