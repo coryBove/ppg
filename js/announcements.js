@@ -1,6 +1,19 @@
 var announcementItems = 
 {   
     item1 : {
+        name : "Welcome Home",
+        description : 
+        `
+        Free Food, Raffle Baskets
+        <br/>
+        Doors at 5PM, Dinner at 6:30PM, Speaker at 8PM
+        `,
+        date: "<br/><em>Founder's Day</em><br/>Thursday, June 10",
+        location: "LOCATION - <br/> Community Vineyard Church <br/> 2543 State Road Cuyahoga Falls OH 44221",
+        shareFlier: "announcements/PPG-Welcome-Home-Founders-Day-2026.jpg",
+        upcoming: "YES"
+    },
+    item2 : {
         name : "Connect the Dots",
         description : 
         `
