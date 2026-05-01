@@ -6,22 +6,22 @@ var announcementItems =
         `
         Free Food, Raffle Baskets
         <br/>
-        Doors at 5PM, Dinner at 6:30PM, Speaker at 8PM
+        Doors at 5PM, Speaker at 8PM
         `,
-        date: "<br/><em>Founder's Day</em><br/>Thursday, June 10",
+        date: "<br/><em>Founder's Day</em><br/>Thursday, June 11",
         location: "LOCATION - <br/> Community Vineyard Church <br/> 2543 State Road Cuyahoga Falls OH 44221",
-        shareFlier: "announcements/PPG-Welcome-Home-Founders-Day-2026.jpg",
+        shareFlier: "announcements/PPG-Welcome-Home-2026.jpg",
         upcoming: "YES"
     },
     item2 : {
-        name : "Connect the Dots",
+        name : "Primary Purpose Group Poker Run 2026",
         description : 
         `
-        This hands-on 12-Step and Big Book workshop invites you to <b>Connect the Dots</b> between reading, doing, and living the 12 Steps of Alcoholics Anonymous.
+        Ride the Freedom and Feel the Adventure
         `,
-        date: "WHEN - <br/><em>Beginning February 15th, 2026</em><br/>Every Sunday 7:00-8:30pm",
-        location: "LOCATION - <br/> Community Vineyard Church <br/> 2543 State Road Cuyahoga Falls OH 44221",
-        shareFlier: "announcements/PPG-Connect-the-Dots-AA-Workshop-2026.jpg",
+        date: "<br/><em>Saturday, August 22, 2026</em><br/>9:00 AM",
+        location: "LOCATION - <br/> Octogon Shelter <br/> 801 Truxell Rd, Peninsula OH 44264",
+        shareFlier: "announcements/PPG-Poker-Run-2026.jpg",
         upcoming: "YES"
     }
 };
